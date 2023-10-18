@@ -1,0 +1,29 @@
+[
+    {
+      "id":1,
+      "name": "Playing Cricket",
+      "Tasks": ["Bowling", "Batting","keeping"],
+      "LikedTaskInCricket": "I like To Bat."
+    },
+    {
+      "id": 2,
+      "name": "FrenchFries",
+      "ingredients": ["potato", "salt", "pepper", "oil"],
+      "instructions": "Heavy fried and add some salt"
+    },
+    {"id":3,
+     "name":"I like to do coding", 
+    "ProgrammingLanguageIDone":["Java","Javascript","Python"],
+    "WhatIdo":"ILikeToSolveCodingProblems."
+    },
+    {"id":4,
+    "name":"Doing Designig", 
+    "Iuse":["FIgma","canva"],
+    "WhatIdo":"I like to do Web design"
+   },
+  {"id":5,
+  "Hobby":"Drinking",
+  "type":["beer","whisky","rum"],
+  "rules":["before eating","weekly twice"]
+  },
+  ]
